@@ -1,4 +1,4 @@
-%CODEGENERATOR.GENCCODEFKINE Generate C-code for the forward kinematics
+abc%CODEGENERATOR.GENCCODEFKINE Generate C-code for the forward kinematics
 %
 % cGen.genccodefkine() generates a robot-specific C-function to compute
 % forward kinematics.
